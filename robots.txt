@@ -1,0 +1,4 @@
+# This is the default robots.txt file
+User-agent: *
+
+Sitemap: /sitemap.xml
